@@ -28,13 +28,13 @@ I am adept at leveraging System Development Life Cycle (SDLC) methodologies to e
 ### 📫 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/ashok-kumar-thangavel/">
+  <a href="https://www.linkedin.com/in/ashok-kumar-thangavel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://community.intersystems.com/user/ashok-kumar-t">
+  <a href="https://community.intersystems.com/user/ashok-kumar-t" target="_blank">
     <img width="40" height="58" alt="image" src="https://github.com/user-attachments/assets/e3d57df0-b08b-4364-950f-0ddf00425434" />
   </a>
-  <a href="mailto:ashok22793@gmail.com">
+  <a href="mailto:ashok22793@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
